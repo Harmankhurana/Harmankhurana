@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harmankhurana
-- 👀 I’m interested in ... Codeing and Gaming
+- 👀 I’m interested in ... Coding and Gaming
 - 🌱 I’m currently learning ... Full stack Web development and Data structures and Algorithm
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... email- work.harmankhurana@gmail.com
