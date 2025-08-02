@@ -71,8 +71,8 @@ India, 302022
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Harman Singh Khurana]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/harman-khurana-7a249b286/))  
-- **GitHub**: [@your-username](https://github.com/Harmankhurana)  
-- **Twitter**: [@your-twitter](https://twitter.com/Harmankhurana19)  
+- **GitHub**: [Harmankhurana](https://github.com/Harmankhurana)  
+- **Twitter**: [@Harmankhurana19](https://twitter.com/Harmankhurana19)  
 - **Email**: work.harmankhurana@gmail.com
 
 ---
