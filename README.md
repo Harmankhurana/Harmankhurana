@@ -1,8 +1,7 @@
 # Harman Singh Khurana
 
 3rd Year B.Tech CSE Student  
-JECRC University, Jaipur  
-India, 302022  
+India
 
 ---
 
@@ -32,8 +31,8 @@ India, 302022
 - JavaScript, Python, C, C++, HTML, CSS    
 
 **Frameworks & Tools**:  
-- Node.js, Express.js 
-- MongoDB, Firebase  
+- Node.js, Express.js, React.js
+- MongoDB, PostgreSQL 
 - Git, GitHub, VS Code   
 
 **Design**:  
