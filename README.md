@@ -16,7 +16,7 @@ When I’m not coding, I’m probably:
 ---
 
 💬 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/harman-khurana-7a249b286/) | [Twitter](https://x.com/Harmankhurana19)) 
+[LinkedIn](https://www.linkedin.com/in/harman-khurana-7a249b286/) | [Twitter](https://x.com/Harmankhurana19)
 
 <!---
 Harmankhurana/Harmankhurana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
