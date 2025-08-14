@@ -9,9 +9,12 @@ When I’m not coding, I’m probably:
 
 ---
 
-## 🌟 Fun Facts  
-- I’m proudly **coffee-free** ☕🚫 (energy comes from ambition 😎)  
-- My dream is to **build a startup** that merges finance, tech, and creativity  
+## 🎯 What I’m Into
+- 🎨 Crafting clean and interactive UIs  
+- 🌐 Full-Stack Web & Web3 Development  
+- 🧩 Solving problems with DSA (Striver style!)  
+- 📈 Learning about startups, finance, and product growth  
+- 🎮 Late-night gaming sessions with coffee on the side
 
 ---
 
